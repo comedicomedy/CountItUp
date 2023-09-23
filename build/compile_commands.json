@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/bensinex/dev/CountIt/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/CountIt.dir/src/main.cpp.o -c /home/bensinex/dev/CountIt/src/main.cpp",
+  "file": "/home/bensinex/dev/CountIt/src/main.cpp",
+  "output": "CMakeFiles/CountIt.dir/src/main.cpp.o"
+}
+]

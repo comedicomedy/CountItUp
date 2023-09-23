@@ -1,0 +1,3 @@
+/home/bensinex/dev/CountIt/build/CMakeFiles/CountIt.dir
+/home/bensinex/dev/CountIt/build/CMakeFiles/edit_cache.dir
+/home/bensinex/dev/CountIt/build/CMakeFiles/rebuild_cache.dir
